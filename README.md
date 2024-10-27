@@ -12,16 +12,6 @@ ___
 7. [Insights and Recommendations](insights-and-recommendation)
 8. [Conclusion](conclusion)
 
-## Table of Contents (Project 2)
-___
-1. [Project Overview](project-overview)
-2. [Tools Used](tools-used)
-3. [Excel Analysis](excel-analysis)
-4. [SQL Queries](sql-queries)
-5. [PowerBI Dashboard](powerbi-dashboard)
-6. [Final deliverables](final-deliverables)
-7. [Appendices](appendices)
-
 ### PROJECT 1 - Sales Performance Analysis for Retail Store
 ___
 
@@ -89,7 +79,8 @@ Total sales by product
     - Total revenue by region.
      
 
-SQL Queries
+#### SQL Queries
+
  Query 1: Total Sales by Product Category.
   ```
 SELECT * FROM [dbo].[LITA Capstone Datasets]
@@ -99,7 +90,7 @@ FROM [LITA Capstone Datasets]
 GROUP BY Product
 ```
 
-- Query 2: Number of Sales Transactions by Region.
+ Query 2: Number of Sales Transactions by Region.
 ```
 SELECT Region,SUM(Quantity)
 as Total_Sales
@@ -107,6 +98,58 @@ FROM[LITA Capstone Datasets]
 GROUP BY Region
 ```
 
+ Query 3: Highest-Selling Product by Total Sales Value.
+```
+SELECT Product,SUM(Quantity)
+as Total_Sales
+FROM[LITA Capstone Datasets]
+GROUP BY Product
+Order By Total_Sales Desc
+```
+
+ Query 4: Total Revenue per Product.
+```
+SELECT Product,SUM(Quantity*UnitPrice)
+as Total_Revenue
+FROM[LITA Capstone Datasets]
+GROUP BY Product
+```
+
+ Query 5: Monthly Sales Totals for Current Year.
+```
+SELECT OrderDate,
+SUM(Quantity) as Total_Sales
+FROM [dbo].[LITA Capstone Datasets]
+WHERE OrderDate = 2024
+GROUP BY OrderDate
+```
+
+ Query 6: Top 5 Customers by Total Purchase Amount.
+ ```
+SELECT Top 5
+Customer_Id, SUM(Quantity) AS Total_Purchase
+FROM [dbo].[LITA Capstone Datasets]
+GROUP BY Customer_Id
+ORDER BY Total_Purchase DESC
+```
+
+ Query 7: Percentage of Total Sales by Region.
+```
+SELECT Region, SUM(Revenue)/SUM(Quantity)*0.1 AS Percentage_of_Total_Sales
+FROM [dbo].[LITA Capstone Datasets]
+GROUP BY Region
+ORDER BY Percentage_of_Total_Sales
+```
+
+ Query 8: Products with No Sales in Last Quarter.
+```
+SELECT Product,SUM(Quantity) AS Sales
+FROM [dbo].[LITA Capstone Datasets]
+WHERE MONTH(OrderDate)
+BETWEEN 10 AND 12
+GROUP BY Product
+HAVING SUM(Quantity)=0
+```
 
 
 
@@ -120,8 +163,15 @@ GROUP BY Region
 
 
 
-
-
+## Table of Contents (Project 2)
+___
+1. [Project Overview](project-overview)
+2. [Tools Used](tools-used)
+3. [Excel Analysis](excel-analysis)
+4. [SQL Queries](sql-queries)
+5. [PowerBI Dashboard](powerbi-dashboard)
+6. [Final deliverables](final-deliverables)
+7. [Appendices](appendices)
 
 
 
