@@ -24,7 +24,7 @@ ___
 
 ### PROJECT 1 - Sales Performance Analysis for Retail Store
 
-#### Project Overview
+#### Project Overview 1
 This project shows the analysis of the sales performance of a retail store. This analysis was carried out by exploring the sales data to uncover key insights such as top-selling products, regional performance, and monthly sales end.  
 
 
