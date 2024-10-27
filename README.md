@@ -3,7 +3,7 @@ ___
 
 ## Table of Content (Project 1)
 ___
-1. [Project Overview 1](project-overview-1)
+1. [Project Overview](project-overview)
 2. [Introduction](introduction)
 3. [Tools used](tools-used)
 4. [Data Exploration](data-exploration)
@@ -14,7 +14,7 @@ ___
 
 ## Table of Contents (Project 2)
 ___
-1. [Project Overview 2](project-overview-2)
+1. [Project Overview](project-overview)
 2. [Tools used](tools-used)
 3. [Excel Analysis](excel-analysis)
 4. [SQL Queries](sql-queries)
@@ -24,7 +24,7 @@ ___
 
 ### PROJECT 1 - Sales Performance Analysis for Retail Store
 
-#### Project Overview 1
+#### Project Overview
 This project shows the analysis of the sales performance of a retail store. This analysis was carried out by exploring the sales data to uncover key insights such as top-selling products, regional performance, and monthly sales end.  
 
 
