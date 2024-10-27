@@ -1,6 +1,6 @@
 # Lita-Capstone-Project
 
-##Table of Content for Project 1 
+## Table of Content for Project 1 
 
 1. Project Overview
 2. Introduction
