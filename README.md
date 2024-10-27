@@ -90,24 +90,23 @@ Total sales by product
      
 
 SQL Queries
-
-- Query 1: Total Sales by Product Category.
-  '''SQL
-  
+ Query 1: Total Sales by Product Category.
+  ```
 SELECT * FROM [dbo].[LITA Capstone Datasets]
 SELECT Product,SUM(Quantity)
 as Total_Sales
 FROM [LITA Capstone Datasets]
 GROUP BY Product
-'''
+```
 
 - Query 2: Number of Sales Transactions by Region.
-Query:
---2. Find the number of sales transactions in each region--
+```
 SELECT Region,SUM(Quantity)
 as Total_Sales
 FROM[LITA Capstone Datasets]
 GROUP BY Region
+```
+
 
 
 
