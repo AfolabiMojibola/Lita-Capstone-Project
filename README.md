@@ -67,10 +67,55 @@ This project employs a combination of data exploration, SQL querying, and data v
 - SQL Server for data querying and analysis
 - Power BI for interactive dashboard creation
 
-DATA EXPLORATION 
+#### Data Exploration
 - EXCEL PIVOT TABLE AND CHARTS
-
 Total sales by product
+
+
+    - Total sales by product.
+
+     
+    - Total sales by region.
+   
+   
+    - Total sales by month.
+     
+
+
+- Calculated metrics:
+    - Average sales per product.
+     
+
+    - Total revenue by region.
+     
+
+SQL Queries
+
+- Query 1: Total Sales by Product Category.
+  '''SQL
+  
+SELECT * FROM [dbo].[LITA Capstone Datasets]
+SELECT Product,SUM(Quantity)
+as Total_Sales
+FROM [LITA Capstone Datasets]
+GROUP BY Product
+'''
+
+- Query 2: Number of Sales Transactions by Region.
+Query:
+--2. Find the number of sales transactions in each region--
+SELECT Region,SUM(Quantity)
+as Total_Sales
+FROM[LITA Capstone Datasets]
+GROUP BY Region
+
+
+
+
+
+
+
+
 
 
 
