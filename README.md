@@ -3,14 +3,14 @@ ___
 
 ## Table of Content (Project 1)
 ___
-1. [Project Overview](project-overview)
-2. [Introduction](introduction)
-3. [Tools Used](tools-used)
-4. [Data Exploration](data-exploration)
-5. [SQL Queries](sql-queries)
-6. [PowerBI Dashboard](powerbi-dashboard)
-7. [Insights and Recommendations](insights-and-recommendation)
-8. [Conclusion](conclusion)
+1. [Project Overview](#project-overview)
+2. [Introduction](#introduction)
+3. [Tools Used](#tools-used)
+4. [Data Exploration](#data-exploration)
+5. [SQL Queries](#sql-queries)
+6. [PowerBI Dashboard](#powerbi-dashboard)
+7. [Insights and Recommendations](#insights-and-recommendation)
+8. [Conclusion](#conclusion)
 
 ### PROJECT 1 - Sales Performance Analysis for Retail Store
 ___
