@@ -2,8 +2,8 @@
 
 ## Table of Content for Project 1 
 
-1. Project Overview
-2. Introduction
+1. [Project Overview](project-overview)
+2. [Introduction](introduction)
 3. Tools used
 4. Data Exploration
 5. SQL Queries
