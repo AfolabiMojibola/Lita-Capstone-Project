@@ -4,7 +4,7 @@ ___
 ## Table of Content (Project 1)
 ___
 
-1. [Project Overview](project-overview)
+1. [PROJECT OVERVIEW](project-overview)
 2. [Introduction](introduction)
 3. [Tools used](tools-used)
 4. [Data Exploration](data-exploration)
