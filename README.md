@@ -382,11 +382,11 @@ ___
     [Insert screenshot here]
 
 
-*Step 3: Interactive Analysis*
+*Interactive Analysis*
 - Add slicers for region, subscription type, and date range.
 - Enable drill-down capabilities for detailed analysis.
 
-*Final Deliverable*
+#### Final Deliverable
 - A comprehensive Power BI dashboard showcasing customer segments, cancellations, and subscription trends.
 - Accompanied by a report detailing findings and insights from Excel and SQL analyses.
 
