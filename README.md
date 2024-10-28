@@ -252,22 +252,22 @@ This project demonstrates the power of data analysis in driving business growth 
 
 ## Table of Contents (Project 2)
 ___
-1. [Project Overview](#project-overview)
-2. [Tools Used](#tools-used)
-3. [Excel Analysis](#excel-analysis)
-4. [SQL Queries](#sql-queries)
-5. [PowerBI Dashboard](#powerbi-dashboard)
+1. [Project Overview 2](#project-overview-2)
+2. [Tools Used 2](#tools-used-2)
+3. [Excel Analysis 2](#excel-analysis-2)
+4. [SQL Queries 2](#sql-queries-2)
+5. [PowerBI Dashboard 2](#powerbi-dashboard-2)
 6. [Final deliverables](#final-deliverables)
 7. [Appendices](#appendices)
 
 
 ### PROJECT 2  - Customer Segmentation for AME Subscription Service 
 
-#### Project Overview 
+#### Project Overview 2
 ___
 This project shows the analysis of customer segmentation for AME subscription service. This analysis was carried out by exploring the customer data for a subscription service to identify key trends in cancellation and renewals. The goal of the project is to understand customer behaviour, track subscription types and identity key trends in cancellation and renewals. 
 
-#### Tools Used
+#### Tools Used 2
 ___
 This project employs a combination of data exploration, SQL querying, and data visualization techniques using:
 
@@ -276,7 +276,7 @@ This project employs a combination of data exploration, SQL querying, and data v
 - Power BI for interactive dashboard creation
 
 
-#### Data Exploration
+#### Data Exploration 2
 ___
 * Excel Analysis
 -Analysis on customer data using pivot tables to find subscription patterns
@@ -294,7 +294,7 @@ subscription types
 
 
 
-#### SQL Queries
+#### SQL Queries 2
 - Total number of customers from each region
 QUERY:
 ```
@@ -363,7 +363,7 @@ GROUP BY CustomerID
 ```
 
 
-#### PowerBI Dashboard
+#### PowerBI Dashboard 2
 ___
 - Create visualizations for:
     - Customer segmentation by region and subscription type
