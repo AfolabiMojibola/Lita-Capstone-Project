@@ -257,8 +257,7 @@ ___
 3. [Excel Analysis 2](#excel-analysis-2)
 4. [SQL Queries 2](#sql-queries-2)
 5. [PowerBI Dashboard 2](#powerbi-dashboard-2)
-6. [Final Deliverables](#final-deliverables)
-7. [Appendices](#appendices)
+6. [Appendices](#appendices)
 
 
 ### PROJECT 2  - Customer Segmentation for AME Subscription Service 
@@ -386,7 +385,7 @@ ___
 - Add slicers for region, subscription type, and date range.
 - Enable drill-down capabilities for detailed analysis.
 
-#### Final Deliverable
+Final Deliverable
 ___
 - A comprehensive Power BI dashboard showcasing customer segments, cancellations, and subscription trends.
 - Accompanied by a report detailing findings and insights from Excel and SQL analyses.
