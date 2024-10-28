@@ -257,7 +257,7 @@ ___
 3. [Excel Analysis 2](#excel-analysis-2)
 4. [SQL Queries 2](#sql-queries-2)
 5. [PowerBI Dashboard 2](#powerbi-dashboard-2)
-6. [Final deliverables](#final-deliverables)
+6. [Final Deliverables](#final-deliverables)
 7. [Appendices](#appendices)
 
 
