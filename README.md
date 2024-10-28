@@ -52,12 +52,14 @@ The project utilizes a comprehensive sales dataset spanning [January 2023- Decem
 - Sales dates and times
 
 #### Tools Used
+___
 This project employs a combination of data exploration, SQL querying, and data visualization techniques using:
 - Microsoft Excel for data exploration and calculation
 - SQL Server for data querying and analysis
 - Power BI for interactive dashboard creation
 
 #### Data Exploration
+___
 - EXCEL PIVOT TABLE AND CHARTS
 Total sales by product
 
@@ -80,7 +82,7 @@ Total sales by product
      
 
 #### SQL Queries
-
+___
  Query 1: Total Sales by Product Category.
   ```
 SELECT * FROM [dbo].[LITA Capstone Datasets]
@@ -152,7 +154,7 @@ HAVING SUM(Quantity)=0
 ```
 
 #### PowerBI Dashboard
-
+___
 - Dashboard screenshots:
     - Sales Overview.
       [Insert screenshot here]
@@ -167,7 +169,7 @@ HAVING SUM(Quantity)=0
 
 
 #### Insights and Recommendations 
-
+___
 Insights:
 1. Product Performance
     - Top-selling products: [Hats, Shoes, Gloves and Shirt]
@@ -219,8 +221,8 @@ Recommendations:
 3. Monitor progress and adjust strategies as needed
 
 
-#### CONCLUSION
-
+#### Conclusion
+___
 This sales performance analysis project has provided valuable insights into Lita Capstone Retail Store's sales trends, product performance, regional variations, and customer behavior. By leveraging data exploration, SQL querying, and data visualization techniques, we have identified opportunities for growth, optimization, and improvement.
 
 * Key Takeaways
