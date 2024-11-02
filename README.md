@@ -80,6 +80,8 @@ Total sales by product
 
 - Calculated metrics:
     - Average sales per product.
+ 
+   IMG-20241026-WA0022.jpg
      
 
     - Total revenue by region.
