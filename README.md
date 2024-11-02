@@ -67,7 +67,7 @@ Total sales by product
 
     - Total sales by product.
       
-
+IMG-20241026-WA0021.jpg
 
      
     - Total sales by region.
