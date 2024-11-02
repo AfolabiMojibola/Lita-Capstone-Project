@@ -73,6 +73,7 @@ Total sales by product
     - Total sales by region.
       
    IMG-20241026-WA0021.jpg
+  51a02fdc5eeb140c39bf78ff294e1d9ed8426cb2
    
     - Total sales by month.
      
