@@ -1,7 +1,7 @@
 # Lita-Capstone-Project
 ___
 
-## Table of Content (Project 1)
+## Table of Content
 ___
 1. [Project Overview](#project-overview)
 2. [Introduction](#introduction)
