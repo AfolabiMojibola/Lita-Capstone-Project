@@ -67,7 +67,7 @@ Total sales by product
 
     - Total sales by product.
       
-      
+https://photos.app.goo.gl/Xba3euJ4YK2MB6Kc7
 
      
     - Total sales by region.
