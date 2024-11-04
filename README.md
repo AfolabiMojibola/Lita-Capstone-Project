@@ -440,6 +440,9 @@ Final Deliverable
 - A comprehensive Power BI dashboard showcasing customer segments, cancellations, and subscription trends.
 - Accompanied by a report detailing findings and insights from Excel and SQL analyses.
 
+#### Appendices
+___
+* Capstone Customer Dataset
 
 
 
