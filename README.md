@@ -164,8 +164,9 @@ HAVING SUM(Quantity)=0
 
 ![IMG-20241022-WA0006](https://github.com/user-attachments/assets/5f5a6cd4-48fa-492c-9824-86c1dcf2b3e1)
 
-
 ![IMG-20241022-WA0007](https://github.com/user-attachments/assets/2e3fb695-5196-460d-99d0-206e952e10f8)
+
+![IMG-20241023-WA0010](https://github.com/user-attachments/assets/c91b108b-27be-4c1e-b2e2-17ac28f9755b)
 
 
 #### PowerBI Dashboard
