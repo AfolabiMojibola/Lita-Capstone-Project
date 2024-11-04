@@ -273,7 +273,18 @@ ___
 * Capstone Sales Dataset
 
 
+# Lita-Capstone-Project-2-
 
+
+## Table of Contents
+___
+1. [Project Overview 2](#project-overview-2)
+2. [Tools Used 2](#tools-used-2)
+3. [Data Exploration 2](#data-exploration-2)
+4. [Excel Analysis 2](#excel-analysis-2)
+5. [SQL Queries 2](#sql-queries-2)
+6. [PowerBI Dashboard 2](#powerbi-dashboard-2)
+7. [Appendices 2](#appendices-2)
 
 
 
