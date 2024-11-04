@@ -332,7 +332,70 @@ Other interesting Reports
 
 ![subscription type distribution by region](https://github.com/user-attachments/assets/10c47664-371f-47de-b965-2527a28107b5)
 
+-Cancellation rates by subscription type
 
+![cancellation rates by subscription](https://github.com/user-attachments/assets/53df625c-e9af-46b7-88eb-5f504f7e5b99)
+
+
+#### SQL Queries
+___
+- Total number of customers from each region
+QUERY:
+```
+SELECT Region, COUNT(CustomerID) AS Total_No_of_Customers
+FROM [dbo].[LITACAPSTONE CUSTOMER DATA]
+GROUP BY Region
+```
+
+- Most popular subscription type by the number of customers
+QUERY:
+```
+SELECT SubscriptionType, COUNT(CustomerID) AS No_of_Customer
+FROM [dbo].[LITACAPSTONE CUSTOMER DATA]
+GROUP BY SubscriptionType
+```
+
+- Customers who canceled their subscription within 6 months
+QUERY:
+```
+SELECT CustomerName, Canceled, SubscriptionStart 
+FROM [dbo].[LITACAPSTONE CUSTOMER DATA]
+WHERE Canceled = 0 AND
+MONTH(SubscriptionStart)
+BETWEEN 1 AND 6
+```
+
+- Average subscription duration for all customers
+QUERY:
+```
+SELECT Count(CustomerID) AS All_Customers, AVG(DATEDIFF(DAY,SubscriptionStart,SubscriptionEnd)) 
+AS Average_Subscription_Duration 
+FROM [dbo].[LITACAPSTONE CUSTOMER DATA]
+WHERE SubscriptionEnd IS NOT NULL
+```
+
+- Customers with subscriptions longer than 12 months
+QUERY:
+```
+SELECT CustomerName,SubscriptionType,SubscriptionStart,SubscriptionEnd 
+FROM [dbo].[LITACAPSTONE CUSTOMER DATA]
+WHERE DATEDIFF(MONTH, SubscriptionStart,SubscriptionEnd)>=12
+```
+
+- Total revenue by subscription type
+QUERY:
+```
+SELECT SubscriptionType, SUM(Revenue) AS Total_Revenue
+FROM [dbo].[LITACAPSTONE CUSTOMER DATA]
+GROUP BY SubscriptionType
+```
+
+- Top 3 regions by subscription cancellations
+QUERY:
+```
+SELECT TOP 3 Region, Canceled 
+FROM [dbo].[LITACAPSTONE CUSTOMER DATA]
+```
 
 
 
