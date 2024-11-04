@@ -7,11 +7,12 @@ ___
 2. [Introduction](#introduction)
 3. [Tools Used](#tools-used)
 4. [Data Exploration](#data-exploration)
-5. [SQL Queries](#sql-queries)
-6. [PowerBI Dashboard](#powerbi-dashboard)
-7. [Insights and Recommendations](#insights-and-recommendations)
-8. [Conclusion](#conclusion)
-9. [Appendices](#appendices)
+5. [Microsoft Excel](#microsoft-excel)
+6. [SQL Queries](#sql-queries)
+7. [PowerBI Dashboard](#powerbi-dashboard)
+8. [Insights and Recommendations](#insights-and-recommendations)
+9. [Conclusion](#conclusion)
+10. [Appendices](#appendices)
 
 ### PROJECT 1 - Sales Performance Analysis for Lita Capstone Retail Store
 ___
@@ -61,16 +62,22 @@ This project employs a combination of data exploration, SQL querying, and data v
 
 #### Data Exploration
 ___
+
+#### Microsoft Excel
 - EXCEL PIVOT TABLE AND CHARTS
 
-    - Total sales by product.
+  - Total sales by product.
       
 ![total sales by product](https://github.com/user-attachments/assets/2dff5b9d-bf64-4e1c-9f0b-c681a5a67084)
 
-     
-    - Total sales by region.
+
+  - Total sales by Region
       
    
+   
+    
+    
+    
     - Total sales by month.
      
 
