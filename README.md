@@ -176,14 +176,16 @@ HAVING SUM(Quantity)=0
 ___
 - Dashboard screenshots:
     - Sales Overview.
+      
       [Insert screenshot here]
     - Top-Performing Products.
+      
       [Insert screenshot here]
     - Regional Breakdown.
+      
       [Insert screenshot here]
 
 - Description of visualizations and insights.
-
 
 
 #### Insights and Recommendations 
@@ -417,18 +419,23 @@ GROUP BY CustomerID
 ___
 - Create visualizations for:
     - Customer segmentation by region and subscription type
+      
     [Insert screenshot here]
 
     - Cancellation rates by subscription type and region
+      
     [Insert screenshot here]
 
     - Average subscription duration by subscription type
+      
     [Insert screenshot here]
 
     - Total revenue by subscription type
+      
     [Insert screenshot here]
 
     - Active and canceled subscription counts
+      
     [Insert screenshot here]
 
 
