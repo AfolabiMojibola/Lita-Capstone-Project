@@ -337,7 +337,7 @@ Other interesting Reports
 ![cancellation rates by subscription](https://github.com/user-attachments/assets/53df625c-e9af-46b7-88eb-5f504f7e5b99)
 
 
-#### SQL Queries
+#### SQL Queries 2
 ___
 - Total number of customers from each region
 QUERY:
@@ -397,6 +397,48 @@ SELECT TOP 3 Region, Canceled
 FROM [dbo].[LITACAPSTONE CUSTOMER DATA]
 ```
 
+- Total number of active and canceled subscriptions
+QUERY:
+```
+SELECT SUM(CASE WHEN Canceled=0 THEN 1 ELSE 0 END) AS ActiveSubscriptions,
+SUM(CASE WHEN Canceled=1 THEN 1 ELSE 0 END) AS CanceledSubscriptions
+FROM [dbo].[LITACAPSTONE CUSTOMER DATA] 
+GROUP BY CustomerID
+```
+
+![IMG-20241022-WA0008](https://github.com/user-attachments/assets/35a7cf46-d1be-429f-8cea-3f196ee33d3e)
+
+![IMG-20241022-WA0009](https://github.com/user-attachments/assets/d813f33e-7b4d-463f-b68b-44cfc25cb158)
+
+![IMG-20241023-WA0011](https://github.com/user-attachments/assets/9cbda577-b142-4329-8c76-8406f0d739eb)
+
+
+#### PowerBI Dashboard 2
+___
+- Create visualizations for:
+    - Customer segmentation by region and subscription type
+    [Insert screenshot here]
+
+    - Cancellation rates by subscription type and region
+    [Insert screenshot here]
+
+    - Average subscription duration by subscription type
+    [Insert screenshot here]
+
+    - Total revenue by subscription type
+    [Insert screenshot here]
+
+    - Active and canceled subscription counts
+    [Insert screenshot here]
+
+
+*Interactive Analysis*
+- Add slicers for region, subscription type, and date range.
+- Enable drill-down capabilities for detailed analysis.
+
+Final Deliverable
+- A comprehensive Power BI dashboard showcasing customer segments, cancellations, and subscription trends.
+- Accompanied by a report detailing findings and insights from Excel and SQL analyses.
 
 
 
