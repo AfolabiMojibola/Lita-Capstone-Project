@@ -306,6 +306,31 @@ ___
 #### Excel Analysis 2
 ___
 
+-Analysis on customer data using pivot tables to find subscription patterns
+
+![subscription type by revenue](https://github.com/user-attachments/assets/31981581-a30c-48c5-ac4f-e18512567949)
+
+![subscription type by customer id](https://github.com/user-attachments/assets/c1c323dc-b625-4c43-8480-7efe66cab159)
+
+![subscription type by cancellation](https://github.com/user-attachments/assets/b41bc65b-62ba-4d79-ba9f-ea504bac4dad)
+
+![subscription type by total revenue](https://github.com/user-attachments/assets/28732c6c-f6f5-4e70-b69a-277c6237e47f)
+
+![region by customer id](https://github.com/user-attachments/assets/1f9645d5-a1b5-4ff6-aa2f-f414a8f4d0cf)
+
+![popular subscription type](https://github.com/user-attachments/assets/a6fa125e-55da-4cb9-b5f1-4b72d8400203)
+
+
+-Average subscription duration and identification of the most popular 
+subscription types
+
+![Average subscription](https://github.com/user-attachments/assets/8bc03673-9f4a-420f-a52c-367789944249)
+
+Other interesting Reports
+
+-Subscription type distribution by region
+
+![subscription type distribution by region](https://github.com/user-attachments/assets/10c47664-371f-47de-b965-2527a28107b5)
 
 
 
