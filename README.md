@@ -162,6 +162,11 @@ GROUP BY Product
 HAVING SUM(Quantity)=0
 ```
 
+
+
+
+
+
 #### PowerBI Dashboard
 ___
 - Dashboard screenshots:
