@@ -62,10 +62,10 @@ This project employs a combination of data exploration, SQL querying, and data v
 #### Data Exploration
 ___
 - EXCEL PIVOT TABLE AND CHARTS
-Total sales by product
-
 
     - Total sales by product.
+      
+![total sales by product](https://github.com/user-attachments/assets/2dff5b9d-bf64-4e1c-9f0b-c681a5a67084)
 
      
     - Total sales by region.
