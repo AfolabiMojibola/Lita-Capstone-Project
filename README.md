@@ -67,8 +67,7 @@ ___
 - EXCEL PIVOT TABLE AND CHARTS
 
   - Total sales by product.
-      
-![total sales by product](https://github.com/user-attachments/assets/2dff5b9d-bf64-4e1c-9f0b-c681a5a67084)     ![total sales by product graph](https://github.com/user-attachments/assets/84f6e9d6-182f-4cde-a953-0fb873edb44a)
+      ![total sales by product](https://github.com/user-attachments/assets/2dff5b9d-bf64-4e1c-9f0b-c681a5a67084)            ![total sales by product graph](https://github.com/user-attachments/assets/84f6e9d6-182f-4cde-a953-0fb873edb44a)
 
 
   - Total sales by Region
