@@ -68,27 +68,37 @@ ___
 
   - Total sales by product.
       
-![total sales by product](https://github.com/user-attachments/assets/2dff5b9d-bf64-4e1c-9f0b-c681a5a67084)
+![total sales by product](https://github.com/user-attachments/assets/2dff5b9d-bf64-4e1c-9f0b-c681a5a67084)         
+
+![total sales by product graph](https://github.com/user-attachments/assets/84f6e9d6-182f-4cde-a953-0fb873edb44a)
 
 
   - Total sales by Region
       
+   ![total sales by region](https://github.com/user-attachments/assets/797d84a1-9fee-47ed-8a09-b2dd0f5e4944)
    
-   
-    
-    
-    
-    - Total sales by month.
-     
+   ![total sales by region graph](https://github.com/user-attachments/assets/8669f615-b51c-4f66-8332-26e9b1c55ca9)
 
+    
+   - Total sales by month.
+     
+![total sales by month](https://github.com/user-attachments/assets/af519aa0-5927-434f-969f-ce152e13d39b)
+
+![total sales by month graph](https://github.com/user-attachments/assets/c2562c4d-a611-4c38-ae86-3a2fea46252b)
 
 - Calculated metrics:
     - Average sales per product.
- 
-     
 
-    - Total revenue by region.
-     
+    ![average sales per product](https://github.com/user-attachments/assets/b61e6edf-ac3c-45a8-8cf4-943efaca3253)
+
+ ![average sales per product graph](https://github.com/user-attachments/assets/71298127-dc24-4eb9-b40f-bc6402322f83)
+
+  - Total revenue by region.
+
+ ![total revenue by region](https://github.com/user-attachments/assets/53540ea9-6edc-4707-91d9-28d771175f48)
+
+ ![total revenue by region graph](https://github.com/user-attachments/assets/624e2c23-c360-4f7f-b42f-87e88f51bb82)
+
 
 #### SQL Queries
 ___
@@ -173,7 +183,6 @@ ___
       [Insert screenshot here]
 
 - Description of visualizations and insights.
-
 
 
 
