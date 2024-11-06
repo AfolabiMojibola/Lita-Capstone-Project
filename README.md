@@ -540,7 +540,7 @@ ___
 - A comprehensive Power BI dashboard showcasing customer segments, cancellations, and subscription trends.
 - Accompanied by a report detailing findings and insights from Excel and SQL analyses.
 
-#### Conclusion
+#### Conclusion 2
 ___
 
 This customer segmentation analysis project aimed to provide actionable insights into customer behavior, subscription patterns, and trends for AME Subscription Service. Through a comprehensive analysis of customer data using Excel, SQL, and Power BI, we achieved the project objectives.
@@ -577,7 +577,7 @@ The findings and recommendations from this project will enable AME Subscription 
 By implementing the recommendations from this project, AME Subscription service can optimize its subscription services, enhance customer experience, and drive business growth.
 
 
-#### Appendices
+#### Appendices 2
 ___
 1. Detailed data analysis reports.
 2. Power BI dashboard screenshots.
