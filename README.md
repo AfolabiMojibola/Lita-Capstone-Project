@@ -23,12 +23,14 @@ This project shows the analysis of the sales performance of Lita Capstone retail
 
 #### Introduction
 ___
-Lita Capstone Retail Store, a leading retail chain with multiple locations across the region, seeks to optimize its sales performance and improve customer engagement. With increasing competition in the market, the store's management recognizes the need for data-driven decision-making to stay ahead.
+Lita Capstone Retail Store, a leading retail chain with multiple locations across the region, seeks to optimize its sales performance and improve customer engagement. With increasing competition in the market, the store's management recognizes the need for decision-making to stay ahead.
 
 * Project Background
+  
 Lita Capstone Retail Store, a leading retail chain with multiple locations across the region, seeks to optimize its sales performance and improve customer engagement. With increasing competition in the market, the store's management recognizes the need for data-driven decision-making to stay ahead.
 
 * Problem Statement
+  
 The store's current sales analysis process is manual, time-consuming, and limited in scope. The management team lacks a comprehensive understanding of sales trends, product performance, and regional variations, hindering strategic decision-making.
 
 
@@ -46,6 +48,7 @@ The store's current sales analysis process is manual, time-consuming, and limite
 4. Strengthen competitive positioning through data-driven decision-making.
 
 * Dataset Description
+  
 The project utilizes a comprehensive sales dataset spanning [January 2023- December 2024], encompassing:
 - Sales transactions
 - Product information
@@ -56,8 +59,11 @@ The project utilizes a comprehensive sales dataset spanning [January 2023- Decem
 #### Methodology and Tools Used
 ___
 This project employs a combination of data exploration, SQL querying, and data visualization techniques using:
-- Microsoft Excel for data exploration and calculation 
+
+- Microsoft Excel for data exploration and calculation
+  
 - SQL Server for data querying and analysis
+  
 - Power BI for interactive dashboard creation
 
 #### Data Exploration
