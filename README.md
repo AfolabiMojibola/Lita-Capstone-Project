@@ -545,7 +545,7 @@ ___
 
 This customer segmentation analysis project aimed to provide actionable insights into customer behavior, subscription patterns, and trends for AME Subscription Service. Through a comprehensive analysis of customer data using Excel, SQL, and Power BI, we achieved the project objectives.
 
-Key Takeaways
+* Key Takeaways
 1. Identified high-value customer segments based on demographic, behavioral, and subscription-related factors.
 2. Determined average subscription duration and churn rates.
 3. Uncovered trends in cancellations and renewals.
