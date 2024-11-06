@@ -60,11 +60,11 @@ The project utilizes a comprehensive sales dataset spanning [January 2023- Decem
 ___
 This project employs a combination of data exploration, SQL querying, and data visualization techniques using:
 
-- Microsoft Excel for data exploration and calculation
+- Microsoft Excel for data exploration and calculation [Download Here](http.//www.microsoft.com)
   
 - SQL Server for data querying and analysis
-  
-- Power BI for interactive dashboard creation
+  [Download Here](http.//www.microsoft.com)
+- Power BI for interactive dashboard creation [Download Here](http.//www.microsoft.com)
 
 #### Data Exploration
 ___
