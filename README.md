@@ -74,29 +74,39 @@ ___
 
   ![IMG-20241026-WA0012](https://github.com/user-attachments/assets/e39f7dfd-2ef3-4cd9-811b-3fc2815c5944)
 
+This image shows the complete data set used in creating pivot tables for the following analysis. In this image, data was also cleaned using excel for proper and better analysis.
 
   - Total sales by product.
 
 ![total sales by product](https://github.com/user-attachments/assets/2dff5b9d-bf64-4e1c-9f0b-c681a5a67084) ![total sales by product graph](https://github.com/user-attachments/assets/84f6e9d6-182f-4cde-a953-0fb873edb44a)
 
+This image shows the result of total sales by product.
 
   - Total sales by Region
 
 ![total sales by region](https://github.com/user-attachments/assets/797d84a1-9fee-47ed-8a09-b2dd0f5e4944) ![total sales by region graph](https://github.com/user-attachments/assets/8669f615-b51c-4f66-8332-26e9b1c55ca9)
 
-    
+This image shows the result of total sales by region.
+
    - Total sales by month.
      
 ![total sales by month](https://github.com/user-attachments/assets/af519aa0-5927-434f-969f-ce152e13d39b) ![total sales by month graph](https://github.com/user-attachments/assets/c2562c4d-a611-4c38-ae86-3a2fea46252b)
 
+This image shows the result of total sales by month.
+
 - Calculated metrics:
+- 
     - Average sales per product.
 
 ![average sales per product](https://github.com/user-attachments/assets/b61e6edf-ac3c-45a8-8cf4-943efaca3253) ![average sales per product graph](https://github.com/user-attachments/assets/71298127-dc24-4eb9-b40f-bc6402322f83)
 
+This image shows the result of the average sales per product.
+
   - Total revenue by region.
 
  ![total revenue by region](https://github.com/user-attachments/assets/53540ea9-6edc-4707-91d9-28d771175f48) ![total revenue by region graph](https://github.com/user-attachments/assets/624e2c23-c360-4f7f-b42f-87e88f51bb82)
+
+This image shows the result of total revenue by region.
 
 
 #### SQL Queries
@@ -176,6 +186,8 @@ HAVING SUM(Quantity)=0
 ![IMG-20241022-WA0007](https://github.com/user-attachments/assets/2e3fb695-5196-460d-99d0-206e952e10f8)
 
 ![IMG-20241023-WA0010](https://github.com/user-attachments/assets/c91b108b-27be-4c1e-b2e2-17ac28f9755b)
+
+The images above shows how results of the data was queried into the SQL Server database using various queries to achieve the desired results.
 
 
 #### PowerBI Dashboard
@@ -278,7 +290,10 @@ This project demonstrates the power of data analysis in driving business growth 
 
 #### Appendices
 ___
-* Capstone Sales Dataset
+* Capstone Sales Dataset (raw data)
+* Excel workbook
+* SQL Query Scripts
+* PowerBi Dashboard file
 
 
 # Lita-Capstone-Project-2-
@@ -318,21 +333,34 @@ ___
 
 ![subscription type by revenue](https://github.com/user-attachments/assets/31981581-a30c-48c5-ac4f-e18512567949)
 
+This image shows the result of subscription type by revenue.
+
 ![subscription type by customer id](https://github.com/user-attachments/assets/c1c323dc-b625-4c43-8480-7efe66cab159)
+
+This image shows the result of subscription type by customer id.
 
 ![subscription type by cancellation](https://github.com/user-attachments/assets/b41bc65b-62ba-4d79-ba9f-ea504bac4dad)
 
+This image shows the result of subscription type by cancellation.
+
 ![subscription type by total revenue](https://github.com/user-attachments/assets/28732c6c-f6f5-4e70-b69a-277c6237e47f)
+
+This image shows the result of subscription type by total revenue
 
 ![region by customer id](https://github.com/user-attachments/assets/1f9645d5-a1b5-4ff6-aa2f-f414a8f4d0cf)
 
+This image shows the result of region by customer id
+
 ![popular subscription type](https://github.com/user-attachments/assets/a6fa125e-55da-4cb9-b5f1-4b72d8400203)
 
+This image shows the result of popular subscription type.
 
 -Average subscription duration and identification of the most popular 
 subscription types
 
 ![Average subscription](https://github.com/user-attachments/assets/8bc03673-9f4a-420f-a52c-367789944249)
+
+This image shows the result of average subscription.
 
 Other interesting Reports
 
@@ -340,9 +368,13 @@ Other interesting Reports
 
 ![subscription type distribution by region](https://github.com/user-attachments/assets/10c47664-371f-47de-b965-2527a28107b5)
 
+This image shows the result of subscription type distribution by region.
+
 -Cancellation rates by subscription type
 
 ![cancellation rates by subscription](https://github.com/user-attachments/assets/53df625c-e9af-46b7-88eb-5f504f7e5b99)
+
+This image shows the result of cancellation rates by susbcription
 
 
 #### SQL Queries 2
@@ -420,6 +452,8 @@ GROUP BY CustomerID
 
 ![IMG-20241023-WA0011](https://github.com/user-attachments/assets/9cbda577-b142-4329-8c76-8406f0d739eb)
 
+The images above shows how results of the data was queried into the SQL Server database using various queries to achieve the desired results.
+
 
 #### PowerBI Dashboard 2
 ___
@@ -445,7 +479,7 @@ ___
     [Insert screenshot here]
 
 
-*Interactive Analysis*
+Interactive Analysis
 - Add slicers for region, subscription type, and date range.
 - Enable drill-down capabilities for detailed analysis.
 
@@ -455,7 +489,11 @@ Final Deliverable
 
 #### Appendices
 ___
-* Capstone Customer Dataset
+* Capstone Customer Dataset (raw file)
+* Excel workbook
+* SQL Query Scripts
+* PowerBi Dashboard file
+
 
 
 
